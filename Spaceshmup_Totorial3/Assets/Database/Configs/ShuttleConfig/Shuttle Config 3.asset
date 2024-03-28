@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dac1593c22edbd040bb39b4d06ba3565, type: 3}
+  m_Name: Shuttle Config 3
+  m_EditorClassIdentifier: 
+  <prefab>k__BackingField: {fileID: 1478258719444368982, guid: 519f3444a212b93488bb0b8006290fa7, type: 3}
+  <icon>k__BackingField: {fileID: 21300000, guid: d832aa90b1269ff49bc75ed8e8fec542, type: 3}
+  <shuttleType>k__BackingField: 3
+  <eBulletType>k__BackingField: 3
+  <shuttleSpeed>k__BackingField: 14
+  <timeInterval>k__BackingField: 0.5
